@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="@dimen/activity_padding_bdr"
+    android:paddingEnd="@dimen/activity_padding_bdr"
+    android:background="@color/colorAccent"
+    tools:context="com.atharva.rama.sriramakoti.SriRamaJayamWelcomeActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/welcomeView"
+        android:contentDescription="@string/SriRama"
+        android:src="@drawable/sriramakoit"
+        android:onClick="Action"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"/>
+
+
+
+</RelativeLayout>

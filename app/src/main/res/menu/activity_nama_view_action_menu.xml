@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item-->
+        <!--android:id="@+id/view_srirama_action_menu_print"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/printTitle"-->
+        <!--android:icon="@drawable/ic_print_white_18dp"-->
+        <!--app:showAsAction="always" />-->
+    <!--<item-->
+        <!--android:id="@+id/view_srirama_action_menu_settings"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/settings"-->
+        <!--android:icon="@drawable/ic_settings_applications_white_18dp"-->
+        <!--app:showAsAction="never" />-->
+    <!--<item-->
+        <!--android:id="@+id/view_srirama_action_menu_help"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/About"-->
+        <!--android:icon="@drawable/ic_help_white_18dp"-->
+        <!--app:showAsAction="never" />-->
+</menu>

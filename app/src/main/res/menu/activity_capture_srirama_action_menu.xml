@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/capture_srirama_action_menu_save"
+        android:orderInCategory="100"
+        android:title="@string/SaveButtonText"
+        android:icon="@drawable/ic_done_white_18dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/capture_srirama_action_menu_clear"
+        android:orderInCategory="100"
+        android:title="@string/ClearButtonText"
+        android:icon="@drawable/ic_delete_white_18dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/capture_srirama_action_menu_view"
+        android:orderInCategory="100"
+        android:title="@string/ViewButtonText"
+        android:icon="@drawable/ic_view_module_white_18dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/capture_srirama_action_menu_view2"
+        android:orderInCategory="100"
+        android:title="@string/ViewButtonText"
+        android:icon="@drawable/ic_view_module_white_18dp"
+        app:showAsAction="always" />
+</menu>
